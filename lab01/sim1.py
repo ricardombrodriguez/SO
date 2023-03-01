@@ -1,5 +1,3 @@
-```py
-
 #based on Simulation Modeling and Analysis, Averil Law
 
 import random
@@ -121,4 +119,3 @@ while num_custs_delayed < 5:
 print("Average delay is {0:5.2f}".format(total_delay / num_custs_delayed))
 print("Mean size of the waiting queue is {0:5.2f}".format(area_q/sim_time))
 print("Server utilization frequency {0:5.2f}".format(area_s/sim_time))
-```
