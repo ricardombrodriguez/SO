@@ -1,0 +1,64 @@
+
+
+Simulation. s =    20 and S =    40
+Ordering cost (per month): 94.24
+Handling cost (per month): 10.29
+Shortage cost (per month): 14.43
+TOTAL COST (per month): 118.96
+===============================================
+
+Simulation. s =    20 and S =    60
+Ordering cost (per month): 88.30
+Handling cost (per month): 17.93
+Shortage cost (per month): 13.28
+TOTAL COST (per month): 119.51
+===============================================
+
+Simulation. s =    20 and S =    80
+Ordering cost (per month): 86.40
+Handling cost (per month): 26.26
+Shortage cost (per month): 11.85
+TOTAL COST (per month): 124.51
+===============================================
+
+Simulation. s =    20 and S =   100
+Ordering cost (per month): 86.03
+Handling cost (per month): 37.18
+Shortage cost (per month):  7.51
+TOTAL COST (per month): 130.72
+===============================================
+
+Simulation. s =    40 and S =    60
+Ordering cost (per month): 102.03
+Handling cost (per month): 25.01
+Shortage cost (per month):  2.32
+TOTAL COST (per month): 129.36
+===============================================
+
+Simulation. s =    40 and S =    80
+Ordering cost (per month): 93.04
+Handling cost (per month): 34.40
+Shortage cost (per month):  1.11
+TOTAL COST (per month): 128.55
+===============================================
+
+Simulation. s =    40 and S =   100
+Ordering cost (per month): 84.07
+Handling cost (per month): 45.82
+Shortage cost (per month):  0.49
+TOTAL COST (per month): 130.38
+===============================================
+
+Simulation. s =    60 and S =    80
+Ordering cost (per month): 102.26
+Handling cost (per month): 43.91
+Shortage cost (per month):  0.27
+TOTAL COST (per month): 146.44
+===============================================
+
+Simulation. s =    60 and S =   100
+Ordering cost (per month): 92.61
+Handling cost (per month): 53.76
+Shortage cost (per month):  0.03
+TOTAL COST (per month): 146.39
+===============================================
